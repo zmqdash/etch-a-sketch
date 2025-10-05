@@ -1,8 +1,5 @@
 
 //containers
-
-const flexContainer = document.querySelector('.flex-container');
-
 const flexContainer2 = document.querySelector('.flex-container2');
 
 const controls = document.querySelector('.controls');
